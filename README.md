@@ -1,7 +1,7 @@
 ﻿# Tug of War
  
  Web game version of well-known sports. Rules are simple: you have to tug the rope with left or right arrow keys as fast as you can to bring your team to victory. Note that if you'll tug the rope in the wrong direction your team will lose automatically.
- ![Image alt](https://github.com/harukakiota/tug-of-war/raw/master/image.jpg)
+ ![Image alt](https://github.com/harukakiota/tug-of-war/master/image.jpg)
 
 ## Deployment
 
