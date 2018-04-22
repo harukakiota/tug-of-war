@@ -16,7 +16,7 @@ npm install
 ```
 in both 'core' and 'services' directories to install required packages. Then run
 ```
-node servise.js
+node service.js
 ```
 in 'services' directory. Then in separed terminal run
 ```
