@@ -18,11 +18,11 @@ in both 'core' and 'services' directories to install required packages. Then run
 ```
 node service.js
 ```
-in 'services' directory. Then in separed terminal run
+in 'services' directory. Then in separed terminal in directory 'core' run
 ```
 node gateway.js
 ```
-in 'core' directory. Thus the game is set and you can go to localhost:5676 in your web browser and try the game.
+Thus the game is set and you can go to localhost:5676 in your web browser and try the game.
 
 ## Stack of technologies
 
