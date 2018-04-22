@@ -1,0 +1,14 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "Microservise that is responsible for game logic.",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiota",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
